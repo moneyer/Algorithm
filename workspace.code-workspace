@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "LeetCode",
+			"path": "./js/."
+		},
+		// {
+		// 	"name": "LeetCode",
+		// 	"path": "./java/."
+		// }
+	]
+}
